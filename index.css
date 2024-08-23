@@ -1,0 +1,15 @@
+h1{
+    background-color: crimson;
+    text-size-adjust: 30px;
+    text-align: center;
+    text-transform: uppercase;
+}
+body{
+    background-color: aliceblue;
+    text-align: left;
+    font-size: larger;
+}
+image{
+    width: 500px;
+    height: 300%;
+}
